@@ -22,7 +22,7 @@ export default function UploadButton() {
             router.refresh();
           }, 2000);
         }}
-        uploadPreset="dbpe7pv1e"
+        uploadPreset="p74yhugc"
       >
         <div className="flex gap-2">
           <svg
