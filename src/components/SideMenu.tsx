@@ -1,8 +1,6 @@
 import { Button } from "@/components/ui/button";
-import { Heart } from "lucide-react";
 import Link from "next/link";
-
-
+import { Heart } from "./icon/heart";
 
 
 export default function SideMenu() {
