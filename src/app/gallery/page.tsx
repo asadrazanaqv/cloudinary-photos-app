@@ -33,6 +33,7 @@ export default async function GalleryPage({
         <SearchForm initialSearch={search} />
 
         <GalleryGrid images={results.resources} />
+    
       </div>
     </section>
   );
